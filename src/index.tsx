@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import MidiComponent from "./midi";
+import MidiComponent from "./jammies";
 
 import "./index.css";
 
